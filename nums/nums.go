@@ -1,4 +1,4 @@
-package nms
+package nums
 
 import "cmp"
 
